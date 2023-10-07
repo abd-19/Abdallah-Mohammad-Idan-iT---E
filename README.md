@@ -1,2 +1,1 @@
-# Abdallah-Mohammad-Idan-iT---E
-<h1>solution of Dis-Lec0</h1>
+<p>run the file to see the sol.</p>
