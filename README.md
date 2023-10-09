@@ -1,3 +1,3 @@
 <p>run the file to see the sol.</p>
 Dear Abdulla,
-Where is the discussion of Lec -0-?
+Thank you so much for the creativity way of solution. You're brilliant.
